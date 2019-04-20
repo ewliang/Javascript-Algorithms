@@ -2,6 +2,7 @@
 // By Eric Liang
 // 
 // Updated: 4/20/2019
+// Repository: https://github.com/ewliang/Javascript-Algorithms/blob/master/SortingAlgorithms/InsertionSort.js
 
 let a = [10, 1, 3, 0, 7];
 let numOfElements = a.length;
