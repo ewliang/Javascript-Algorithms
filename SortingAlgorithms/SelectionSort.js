@@ -1,4 +1,4 @@
-// Insertion Sort
+// Selection Sort
 // By Eric Liang
 // 
 // Updated: 4/20/2019
